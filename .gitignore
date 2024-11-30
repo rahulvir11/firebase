@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+.next
+social-auth-server-test/zimutail-firebase-adminsdk-o5vss-8de9900ea3.json
+.env
+social-auth-server-test/configs/serviceAccountConfig
+serviceAccount.js
+serviceAccountConfig.json
